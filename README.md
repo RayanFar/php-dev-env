@@ -35,9 +35,9 @@ Place your PHP application inside the app_data directory. This will be served by
 Go to http://localhost to see your project running. 🚀
 
 ## How to use xdebug
-1️⃣ In VSCode, go to the "Run and Debug" section and select "Listen for Xdebug".
-2️⃣ Set breakpoints in your index.php or any other file.
-3️⃣ Reload the page in your web browser (http://localhost) to trigger the debugger.
+- 1️⃣ In VSCode, go to the "Run and Debug" section and select "Listen for Xdebug".
+- 2️⃣ Set breakpoints in your index.php or any other file.
+- 3️⃣ Reload the page in your web browser (http://localhost) to trigger the debugger.
 
 ✅ Now VSCode should stop at your breakpoints, allowing you to debug your PHP application! 🚀
 
